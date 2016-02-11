@@ -1,38 +1,69 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Dynamic Web Applications - Project P1</title>
 		<link href='css/p1.css' rel='stylesheet'>
 	</head>
-	<body>
-		<h1>Dynamic Web Applications - Project P1</h1>
-		<h2>Chithra Jayakumar</h2>
-		<h3><img src='images/flower.png' alt='Chithra Jayakumar'></h3>
-		<p>
-			Live URL: <a href="http://p1.chanchika.me/" target="_blank">Project P1</a>
-		</p>
-		<p>
-			GitHub: <a href="https://github.com/Chithra-J/P1" target="_blank">GitHub P1</a>
-		</p>
-		<h3>Project 2</h3>
-		<p>
-			Live URL: [TBD]
-		</p>
-		<p>
-			GitHub: [TBD]
-		</p>
-		<h3>Project 3</h3>
-		<p>
-			Live URL: [TBD]
-		</p>
-		<p>
-			GitHub: [TBD]
-		</p>
-		<h3>Project 4</h3>
-		<p>
-			Live URL: [TBD]
-		</p>
-		<p>
-			GitHub: [TBD]
-		</p>
+	<body id="bg">
+		<div class="layout">
+			<div class="course">
+				<h1>Dynamic Web Applications - Project P1</h1>
+				<h2>Chithra Jayakumar</h2>
+			</div>
+			<div id="projects">
+				<div class="project">
+					Project P4
+				</div>
+				<div class="project">
+					Project P3
+				</div>
+				<div class="project">
+					Project P2
+				</div>
+				<div class="project">
+					<a href="https://github.com/Chithra-J/P1" target="_blank">Project P1</a>
+				</div>
+			</div>
+			<div class="intro">
+				<p>
+					<br>
+				</p>
+				<p>
+					<b><u>About this project:</u></b>
+					<br>
+					<br>
+					Project P1 is to make all the configuration to run the upcoming projects will be executed properly. For Windows steps included
+					<br>
+				</p>
+				<ol>
+					<li>
+						Install XAMPP (has apache server and MySQL) to make sure projects run successfully in local machine
+					</li>
+					<li>
+						Configuring Git and GitHub to have code repository
+					</li>
+					<li>
+						Getting Live Server (Digital Ocean) set up to connect to GitHub
+					</li>
+					<li>
+						Getting Domain (NameCheap) set up to connect to Live Server (Digital Ocean)
+					</li>
+				</ol>
+
+				<p>
+					<b><u>About the course:</u></b>
+					<br>
+					<br>
+					Dynamic Web Applications is the first course I am taking at Harvard Extension School. This course is going to help me learn several technologies that I am aware of but did have any experience working.
+					<br>
+				</p>
+				<p>
+					<b><u>About me:</u></b>
+					<br>
+					<br>
+					I am a Software Engineer currently working in UX team. I have worked in backend and middleware for many years. Recently started working for frontend which is challenging since it needs lot of creativity.
+				</p>
+			</div>
+		</div>
 	</body>
 </html>
