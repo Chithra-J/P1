@@ -8,31 +8,31 @@
 		<h2>Chithra Jayakumar</h2>
 		<h3><img src='images/flower.png' alt='Chithra Jayakumar'></h3>
 		<p>
-			Live URL: [link]
+			Live URL: <a href="http://p1.chanchika.me/" target="_blank">Project P1</a>
 		</p>
 		<p>
-			GitHub: [link]
+			GitHub: <a href="https://github.com/Chithra-J/P1" target="_blank">GitHub P1</a>
 		</p>
 		<h3>Project 2</h3>
 		<p>
-			Live URL: [link]
+			Live URL: [TBD]
 		</p>
 		<p>
-			GitHub: [link]
+			GitHub: [TBD]
 		</p>
 		<h3>Project 3</h3>
 		<p>
-			Live URL: [link]
+			Live URL: [TBD]
 		</p>
 		<p>
-			GitHub: [link]
+			GitHub: [TBD]
 		</p>
 		<h3>Project 4</h3>
 		<p>
-			Live URL: [link]
+			Live URL: [TBD]
 		</p>
 		<p>
-			GitHub: [link]
+			GitHub: [TBD]
 		</p>
 	</body>
 </html>

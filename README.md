@@ -4,8 +4,8 @@ This is the first project "P1" that mainly deals with the basic configuration of
 
 ## Live URL of the project
 
-Live URL of the project can be found [here]().
+Live URL of the project can be found [here](http://p1.chanchika.me/).
 
 ## Demo
 
-Link to your screencast demo can be found [here]().
+Link to your screencast demo can be found [here](http://p1.chanchika.me/).
