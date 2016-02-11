@@ -8,4 +8,4 @@ Live URL of the project can be found [here](http://p1.chanchika.me/).
 
 ## Demo
 
-Link to your screencast demo can be found [here](http://www.screencast.com/users/Chithra_Jayakumar/folders/DWA/media/caced0c9-ba7d-46ba-a6bc-331fe77cdda1).
+Link to screencast demo can be found [here](http://www.screencast.com/users/Chithra_Jayakumar/folders/DWA/media/caced0c9-ba7d-46ba-a6bc-331fe77cdda1).
