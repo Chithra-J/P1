@@ -20,13 +20,13 @@
 			</div>
 			<div id="projects">
 				<div class="project">
-					Project P4
+					<a href="https://github.com/Chithra-J/P4" target="_blank">Project P4</a>
 				</div>
 				<div class="project">
-					Project P3
+					<a href="https://github.com/Chithra-J/P3" target="_blank">Project P3</a>
 				</div>
 				<div class="project">
-					Project P2
+					<a href="https://github.com/Chithra-J/P3" target="_blank">Project P2</a>
 				</div>
 				<div class="project">
 					<a href="https://github.com/Chithra-J/P1" target="_blank">Project P1</a>
