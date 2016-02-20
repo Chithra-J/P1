@@ -26,7 +26,7 @@
 					<a href="https://github.com/Chithra-J/P3" target="_blank">Project P3</a>
 				</div>
 				<div class="project">
-					<a href="https://github.com/Chithra-J/P3" target="_blank">Project P2</a>
+					<a href="https://github.com/Chithra-J/P2" target="_blank">Project P2</a>
 				</div>
 				<div class="project">
 					<a href="https://github.com/Chithra-J/P1" target="_blank">Project P1</a>
