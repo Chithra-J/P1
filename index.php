@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+<!--		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">-->
 		<meta charset="utf-8">
 		<!-- Set the viewport so this responsive site displays correctly on mobile devices -->
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Chithra Jayakumar P2 Demo">
 		<meta name="author" content="Chithra Jayakumar">
-		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		
 		<title>Dynamic Web Applications - Project P1</title>
 		<link href='css/p1.css' rel='stylesheet'>
 	</head>
